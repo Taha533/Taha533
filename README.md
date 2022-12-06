@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning related projects
 - 📫 Visit my [Portfolio](https://taha533.github.io/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha533&theme=radical) ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/taha07/notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha533&theme=radical) ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/taha07/notebook) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha533&layout=compact)](https://github.com/Taha533/github-readme-stats)
 
 <!---
 Taha533/Taha533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/taha07/discussion)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha533&layout=compact)](https://github.com/Taha533/github-readme-stats)
+
