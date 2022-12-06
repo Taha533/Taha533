@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taha533
+- 👋 Hi, I’m Taha
 - 👀 I’m interested in Data Science, Machine Learning & Deep Learning
 - 🌱 I’m currently learning  NLP and Transformers
 - 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning related projects
