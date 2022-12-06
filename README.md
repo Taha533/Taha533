@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning related projects
 - 📫 Visit my [Portfolio](https://taha533.github.io/).
 
-![taha07](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{taha07})
+![taha07](https://road-to-kaggle-grandmaster.vercel.app/api/simple/taha07)
 
 <!---
 Taha533/Taha533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
