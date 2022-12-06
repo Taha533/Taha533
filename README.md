@@ -18,3 +18,5 @@ You can click the Preview link to take a look at your changes.
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/taha07/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/taha07/discussion)
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha533&layout=compact)](https://github.com/Taha533/github-readme-stats)
